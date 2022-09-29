@@ -1,4 +1,4 @@
-# CursoIntroducci-nProgramaci-nFunciones
+# CursoIntroduccionProgramacionFunciones
 
 Ejercicios tema 3
 
